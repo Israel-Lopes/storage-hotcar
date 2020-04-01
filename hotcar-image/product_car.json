@@ -122,7 +122,6 @@
                 "year": "2017"
             }
         ],
-
         "chevrolet": [
             {
                 "image": "CHEVROLET-COBALT-11006992-1.jpg",
@@ -221,7 +220,6 @@
                 "year": "2015"
             }
         ],
-
         "fiat": [
             {
                 "image": "FIAT-BRAVO-10620815-1.jpg",
@@ -312,7 +310,6 @@
                 "year": "2017"
             }
         ],
-
         "ford": [
             {
                 "image": "FORD-ECOSPORT-10930093-1.jpg",
@@ -435,7 +432,6 @@
                 "year": "2017"
             }
         ],
-
         "honda": [
             {
                 "image": "HONDA-CITY-10265153-1.jpg",
@@ -558,7 +554,6 @@
                 "year": "2017"
             }
         ],
-
         "hyundai": [
             {
                 "image": "HYUNDAI-ELANTRA-10958517-1.jpg",
@@ -681,7 +676,6 @@
                 "year": "2015"
             }
         ],
-
         "jeep": [
             {
                 "image": "JEEP-COMPASS-10684603-1.jpg",
@@ -804,7 +798,6 @@
                 "year": "2014"
             }
         ],
-
         "mercedes-benz": [
             {
                 "image": "MERCEDESBENZ-A-200-9101389-1.jpg",
@@ -919,7 +912,6 @@
                 "year": "2016"
             }
         ],
-
         "nissan": [
             {
                 "image": "NISSAN-FRONTIER-10992316-1.jpg",
@@ -1042,7 +1034,6 @@
                 "year": "2015"
             }
         ],
-
         "toyota": [
             {
                 "image": "TOYOTA-COROLLA-10020406-1.jpg",
@@ -1165,7 +1156,6 @@
                 "year": "2015"
             }
         ],
-
         "volkswagen": [
             {
                 "image": "VOLKSWAGEN-FOX-10981675-1.jpg",
