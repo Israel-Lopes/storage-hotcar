@@ -3,1040 +3,1040 @@
         "audi": [
             {
                 "image": "AUDI-A3-10669250-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10669250-1",
+                "name": "AUDI-A3",
+                "price": "80.000",
+                "km": "25.00",
+                "year": "2012"
             },
             {
                 "image": "AUDI-A3-11006984-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11006984-1",
+                "name": "AUDI-A3",
+                "price": "47.000",
+                "km": "60.000",
+                "year": "2006"
             },
             {
                 "image": "AUDI-A3-11011613-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11011613-1",
+                "name": "AUDI-A3",
+                "price": "105.000",
+                "km": "15.00",
+                "year": "2017"
             },
             {
                 "image": "AUDI-A4-10714219-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10714219-1",
+                "name": "AUDI-A4",
+                "price": "56.000",
+                "km": "56.000",
+                "year": "2015"
             },
             {
                 "image": "AUDI-A4-11005425-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11005425-1",
+                "name": "AUDI-A4",
+                "price": "80.0000",
+                "km": "27.000",
+                "year": "2019"
             },
             {
                 "image": "AUDI-A4-AVANT-10714229-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10714229-1",
+                "name": "AUDI-A4-AVANT",
+                "price": "90.000",
+                "km": "66.000",
+                "year": "2016"
             },
             {
                 "image": "AUDI-A5-10714240-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10714240-1",
+                "name": "AUDI-A5",
+                "price": "55.000",
+                "km": "41.200",
+                "year": "2015"
             },
             {
                 "image": "AUDI-A5-10729575-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10729575-1",
+                "name": "AUDI-A5",
+                "price": "74.000",
+                "km": "10.000",
+                "year": "2018"
             },
             {
                 "image": "AUDI-Q3-10476767-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10476767-1",
+                "name": "AUDI-Q3",
+                "price": "69.000",
+                "km": "27.000",
+                "year": "2017"
             },
             {
                 "image": "AUDI-Q5-11006998-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11006998-1",
+                "name": "AUDI-Q5",
+                "price": "55.000",
+                "km": "27.000",
+                "year": "2014"
             },
             {
                 "image": "AUDI-Q7-10689950-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10689950-1",
+                "name": "AUDI-Q7",
+                "price": "74.000",
+                "km": "21.000",
+                "year": "2012"
             },
             {
                 "image": "AUDI-Q7-10714246-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10714246-1",
+                "name": "AUDI-Q7",
+                "price": "90.000",
+                "km": "15.000",
+                "year": "2018"
             },
             {
                 "image": "AUDI-Q7-10849162-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10849162-1",
+                "name": "AUDI-Q7",
+                "price": "105.000",
+                "km": "8.000",
+                "year": "2019"
             },
             {
                 "image": "AUDI-Q7-10962956-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10962956-1",
+                "name": "AUDI-Q7",
+                "price": "145.000",
+                "km": "600",
+                "year": "2020"
             },
             {
                 "image": "AUDI-RS6-10949803-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10949803-1",
+                "name": "AUDI-RS6",
+                "price": "41.000",
+                "km": "10.000",
+                "year": "2017"
             }
         ],
 
         "chevrolet": [
             {
                 "image": "CHEVROLET-COBALT-11006992-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11006992-1",
+                "name": "CHEVROLET-COBALT",
+                "price": "30.000",
+                "km": "5.000",
+                "year": "2016"
             },
             {
                 "image": "CHEVROLET-CRUZE-10791934-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10791934-1",
+                "name": "CHEVROLET-CRUZE",
+                "price": "27.000",
+                "km": "7.000",
+                "year": "2015"
             },
             {
                 "image": "CHEVROLET-CRUZE-10947324-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10947324-1",
+                "name": "CHEVROLET-CRUZE",
+                "price": "21.000",
+                "km": "4.000",
+                "year": "2014"
             },
             {
                 "image": "chevrolet-cruze-11005656-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11005656-1",
+                "name": "CHEVROLET-CRUZE",
+                "price": "15.000",
+                "km": "13.000",
+                "year": "2013"
             },
             {
                 "image": "chevrolet-onix-11005763-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11005763-1",
+                "name": "chevrolet-onix",
+                "price": "41.000",
+                "km": "8.000",
+                "year": "2018"
             },
             {
                 "image": "CHEVROLET-ONIX-PLUS-10646856-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10646856-1",
+                "name": "CHEVROLET-ONIX-PLUS",
+                "price": "28.000",
+                "km": "10.000",
+                "year": "2016"
             },
             {
                 "image": "chevrolet-onix-plus-11006105-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11006105-1",
+                "name": "CHEVROLET-ONIX-PLUS",
+                "price": "27.000",
+                "km": "8.000",
+                "year": "2013"
             },
             {
                 "image": "CHEVROLET-PRISMA-10991131-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10991131-1",
+                "name": "CHEVROLET-PRISMA",
+                "price": "17.000",
+                "km": "15.000",
+                "year": "2017"
             },
             {
                 "image": "chevrolet-prisma-11005824-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11005824-1",
+                "name": "CHEVROLET-PRISMA",
+                "price": "28.000",
+                "km": "4.000",
+                "year": "2015"
             },
             {
                 "image": "CHEVROLET-S10-10924512-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10924512-1",
+                "name": "CHEVROLET-S10",
+                "price": "68.000",
+                "km": "6.000",
+                "year": "2017"
             },
             {
                 "image": "CHEVROLET-S10-10946281-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10946281-1",
+                "name": "CHEVROLET-S10",
+                "price": "26.000",
+                "km": "6.000",
+                "year": "2012"
             },
             {
                 "image": "chevrolet-tracker-11005491-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11005491-1",
+                "name": "chevrolet-tracker",
+                "price": "30.000",
+                "km": "1.000",
+                "year": "2015"
             }
         ],
 
         "fiat": [
             {
                 "image": "FIAT-BRAVO-10620815-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10620815-1",
+                "name": "FIAT-BRAVO",
+                "price": "30.000",
+                "km": "1.000",
+                "year": "2015"
             },
             {
                 "image": "FIAT-BRAVO-10661542-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10661542-1",
+                "name": "FIAT-BRAVO",
+                "price": "30.000",
+                "km": "1.000",
+                "year": "2015"
             },
             {
                 "image": "fiat-grand-siena-10552587-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10552587-1",
+                "name": "fiat-grand-siena",
+                "price": "33.000",
+                "km": "2.000",
+                "year": "2018"
             },
             {
                 "image": "fiat-palio-9899184-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "9899184-1",
+                "name": "fiat-palio",
+                "price": "33.000",
+                "km": "2.000",
+                "year": "2018"
             },
             {
                 "image": "fiat-palio-11006349-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11006349-1",
+                "name": "fiat-palio",
+                "price": "33.000",
+                "km": "2.000",
+                "year": "2018"
             },
             {
                 "image": "FIAT-PUNTO-10908474-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10908474-1",
+                "name": "FIAT-PUNTO",
+                "price": "23.000",
+                "km": "5.000",
+                "year": "2014"
             },
             {
                 "image": "fiat-punto-10943288-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10943288-1",
+                "name": "FIAT-PUNTO",
+                "price": "23.000",
+                "km": "5.000",
+                "year": "2014"
             },
             {
                 "image": "FIAT-TORO-10835617-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10835617-1",
+                "name": "FIAT-TORO",
+                "price": "23.000",
+                "km": "5.000",
+                "year": "2014"
             },
             {
                 "image": "FIAT-TORO-10962881-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10962881-1",
+                "name": "FIAT-TORO",
+                "price": "23.000",
+                "km": "5.000",
+                "year": "2014"
             },
             {
                 "image": "FIAT-TORO-10964448-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10964448-1",
+                "name": "FIAT-TORO",
+                "price": "32.000",
+                "km": "1.500",
+                "year": "2017"
             },
             {
                 "image": "FIAT-UNO-11017372-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11017372-1",
+                "name": "FIAT-UNO",
+                "price": "32.000",
+                "km": "1.500",
+                "year": "2017"
             }
         ],
 
         "ford": [
             {
                 "image": "FORD-ECOSPORT-10930093-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10930093-1",
+                "name": "FORD-ECOSPORT",
+                "price": "55.000",
+                "km": "1.200",
+                "year": "2018"
             },
             {
                 "image": "FORD-ECOSPORT-10930731-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10930731-1",
+                "name": "FORD-ECOSPORT",
+                "price": "55.000",
+                "km": "1.200",
+                "year": "2018"
             },
             {
                 "image": "FORD-ECOSPORT-11033550-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11033550-1",
+                "name": "FORD-ECOSPORT",
+                "price": "55.000",
+                "km": "1.200",
+                "year": "2018"
             },
             {
                 "image": "FORD-EDGE-10773548-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10773548-1",
+                "name": "FORD-EDGE",
+                "price": "55.000",
+                "km": "1.200",
+                "year": "2018"
             },
             {
                 "image": "FORD-FIESTA-10136438-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10136438-1",
+                "name": "FORD-FIESTA",
+                "price": "65.000",
+                "km": "700",
+                "year": "2019"
             },
             {
                 "image": "FORD-FIESTA-10951403-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10951403-1",
+                "name": "FORD-FIESTA",
+                "price": "65.000",
+                "km": "700",
+                "year": "2019"
             },
             {
                 "image": "FORD-FOCUS-10774010-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10774010-1",
+                "name": "FORD-FOCUS",
+                "price": "65.000",
+                "km": "700",
+                "year": "2019"
             },
             {
                 "image": "FORD-FIESTA-10136438-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10136438-1",
+                "name": "FORD-FIESTA",
+                "price": "45.000",
+                "km": "1.300",
+                "year": "2018"
             },
             {
                 "image": "FORD-FIESTA-10951403-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10951403-1",
+                "name": "FORD-FIESTA",
+                "price": "45.000",
+                "km": "1.300",
+                "year": "2018"
             },
             {
                 "image": "FORD-FOCUS-10774010-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10774010-1",
+                "name": "FORD-FOCUS",
+                "price": "45.000",
+                "km": "1.300",
+                "year": "2018"
             },
             {
                 "image": "FORD-FOCUS-10774031-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10774031-1",
+                "name": "FORD-FOCUS",
+                "price": "61.000",
+                "km": "2.000",
+                "year": "2017"
             },
             {
                 "image": "FORD-FOCUS-10774257-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10774257-1",
+                "name": "FORD-FOCUS",
+                "price": "61.000",
+                "km": "2.000",
+                "year": "2017"
             },
             {
                 "image": "FORD-FOCUS-10963782-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10963782-1",
+                "name": "FORD-FOCUS",
+                "price": "61.000",
+                "km": "2.000",
+                "year": "2017"
             },
             {
                 "image": "FORD-FOCUS-11008669-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11008669-1",
+                "name": "FORD-FOCUS",
+                "price": "61.000",
+                "km": "2.000",
+                "year": "2017"
             },
             {
                 "image": "FORD-FUSION-10774453-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10774453-1",
+                "name": "FORD-FUSION",
+                "price": "61.000",
+                "km": "2.000",
+                "year": "2017"
             }
         ],
 
         "honda": [
             {
                 "image": "HONDA-CITY-10265153-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10265153-1",
+                "name": "HONDA-CITY",
+                "price": "21.000",
+                "km": "1.000",
+                "year": "2017"
             },
             {
                 "image": "HONDA-CITY-10915763-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10915763-1",
+                "name": "HONDA-CITY",
+                "price": "21.000",
+                "km": "1.000",
+                "year": "2017"
             },
             {
                 "image": "HONDA-CITY-10969251-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10969251-1",
+                "name": "HONDA-CITY",
+                "price": "21.000",
+                "km": "1.000",
+                "year": "2017"
             },
             {
                 "image": "HONDA-CIVIC-10573589-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10573589-1",
+                "name": "HONDA-CIVIC",
+                "price": "23.000",
+                "km": "1.100",
+                "year": "2018"
             },
             {
                 "image": "HONDA-CIVIC-10766756-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10766756-1",
+                "name": "HONDA-CIVIC",
+                "price": "23.000",
+                "km": "1.100",
+                "year": "2018"
             },
             {
                 "image": "HONDA-CIVIC-10844034-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10844034-1",
+                "name": "HONDA-CIVIC",
+                "price": "23.000",
+                "km": "1.100",
+                "year": "2018"
             },
             {
                 "image": "HONDA-CIVIC-10927713-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10927713-1",
+                "name": "HONDA-CIVIC",
+                "price": "23.000",
+                "km": "1.100",
+                "year": "2018"
             },
             {
                 "image": "HONDA-CIVIC-10985935-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10985935-1",
+                "name": "HONDA-CIVIC",
+                "price": "17.000",
+                "km": "1.203",
+                "year": "2016"
             },
             {
                 "image": "HONDA-CIVIC-11031411-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11031411-1",
+                "name": "HONDA-CIVIC",
+                "price": "17.000",
+                "km": "1.203",
+                "year": "2016"
             },
             {
                 "image": "HONDA-CRV-10476739-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10476739-1",
+                "name": "HONDA-CRV",
+                "price": "17.000",
+                "km": "1.203",
+                "year": "2016"
             },
             {
                 "image": "HONDA-FIT-9439480-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "9439480-1",
+                "name": "HONDA-FIT",
+                "price": "17.000",
+                "km": "1.203",
+                "year": "2016"
             },
             {
                 "image": "HONDA-FIT-10848264-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10848264-1",
+                "name": "HONDA-FIT",
+                "price": "21.000",
+                "km": "2.000",
+                "year": "2017"
             },
             {
                 "image": "HONDA-FIT-10863509-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10863509-1",
+                "name": "HONDA-FIT",
+                "price": "21.000",
+                "km": "2.000",
+                "year": "2017"
             },
             {
                 "image": "HONDA-FIT-10956211-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10956211-1",
+                "name": "HONDA-FIT",
+                "price": "21.000",
+                "km": "2.000",
+                "year": "2017"
             },
             {
                 "image": "HONDA-FIT-10958515-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10958515-1",
+                "name": "HONDA-FIT",
+                "price": "21.000",
+                "km": "2.000",
+                "year": "2017"
             }
         ],
 
         "hyundai": [
             {
                 "image": "HYUNDAI-ELANTRA-10958517-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10958517-1",
+                "name": "HYUNDAI-ELANTRA",
+                "price": "47.000",
+                "km": "2.500",
+                "year": "2017"
             },
             {
                 "image": "HYUNDAI-HB20-10198562-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10198562-1",
+                "name": "HYUNDAI-HB20",
+                "price": "47.000",
+                "km": "2.500",
+                "year": "2017"
             },
             {
                 "image": "HYUNDAI-HB20-10716861-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10716861-1",
+                "name": "HYUNDAI-HB20",
+                "price": "47.000",
+                "km": "2.500",
+                "year": "2017"
             },
             {
                 "image": "HYUNDAI-HB20-10912739-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10912739-1",
+                "name": "HYUNDAI-HB20",
+                "price": "67.000",
+                "km": "2.000",
+                "year": "2016"
             },
             {
                 "image": "hyundai-hb20s-10176615-4.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10176615-4",
+                "name": "HYUNDAI-HB20S",
+                "price": "56.000",
+                "km": "2.000",
+                "year": "2016"
             },
             {
                 "image": "HYUNDAI-HB20S-10614555-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10614555-1",
+                "name": "HYUNDAI-HB20S",
+                "price": "60.000",
+                "km": "2.000",
+                "year": "2016"
             },
             {
                 "image": "HYUNDAI-HB20S-10716734-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10716734-1",
+                "name": "HYUNDAI-HB20S",
+                "price": "66.000",
+                "km": "2.000",
+                "year": "2016"
             },
             {
                 "image": "HYUNDAI-HB20S-10716910-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10716910-1",
+                "name": "HYUNDAI-HB20S",
+                "price": "46.000",
+                "km": "2.000",
+                "year": "2016"
             },
             {
                 "image": "HYUNDAI-HB20S-10958227-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10958227-1",
+                "name": "HYUNDAI-HB20S",
+                "price": "66.000",
+                "km": "2.000",
+                "year": "2016"
             },
             {
                 "image": "HYUNDAI-HB20X-9898838-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "9898838-1",
+                "name": "HYUNDAI-HB20X",
+                "price": "66.000",
+                "km": "2.000",
+                "year": "2016"
             },
             {
                 "image": "HYUNDAI-HB20X-10042567-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10042567-1",
+                "name": "HYUNDAI-HB20X",
+                "price": "66.000",
+                "km": "2.000",
+                "year": "2016"
             },
             {
                 "image": "HYUNDAI-IX35-9295330-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "9295330-1",
+                "name": "HYUNDAI-IX35",
+                "price": "55.000",
+                "km": "1.020",
+                "year": "2015"
             },
             {
                 "image": "HYUNDAI-IX35-10983520-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10983520-1",
+                "name": "HYUNDAI-IX35",
+                "price": "55.000",
+                "km": "1.020",
+                "year": "2015"
             },
             {
                 "image": "HYUNDAI-TUCSON-10142763-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10142763-1",
+                "name": "HYUNDAI-TUCSON",
+                "price": "55.000",
+                "km": "1.020",
+                "year": "2015"
             },
             {
                 "image": "HYUNDAI-TUCSON-10154335-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10154335-1",
+                "name": "HYUNDAI-TUCSON",
+                "price": "55.000",
+                "km": "1.020",
+                "year": "2015"
             }
         ],
 
         "jeep": [
             {
                 "image": "JEEP-COMPASS-10684603-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10684603-1",
+                "name": "JEEP-COMPASS",
+                "price": "70.000",
+                "km": "1.000",
+                "year": "2017"
             },
             {
                 "image": "JEEP-COMPASS-10684643-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10684643-1",
+                "name": "JEEP-COMPASS",
+                "price": "70.000",
+                "km": "1.000",
+                "year": "2017"
             },
             {
                 "image": "JEEP-COMPASS-10703166-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10703166-1",
+                "name": "JEEP-COMPASS",
+                "price": "70.000",
+                "km": "1.000",
+                "year": "2017"
             },
             {
                 "image": "JEEP-COMPASS-10868086-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10868086-1",
+                "name": "JEEP-COMPASS",
+                "price": "70.000",
+                "km": "1.000",
+                "year": "2017"
             },
             {
                 "image": "JEEP-COMPASS-10874621-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10874621-1",
+                "name": "JEEP-COMPASS",
+                "price": "70.000",
+                "km": "1.000",
+                "year": "2017"
             },
             {
                 "image": "JEEP-COMPASS-10886731-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10886731-1",
+                "name": "JEEP-COMPASS",
+                "price": "37.000",
+                "km": "1.600",
+                "year": "2015"
             },
             {
                 "image": "JEEP-COMPASS-10910345-10.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10910345-10",
+                "name": "JEEP-COMPASS",
+                "price": "37.000",
+                "km": "1.600",
+                "year": "2015"
             },
             {
                 "image": "JEEP-COMPASS-10953361-10.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10953361-10",
+                "name": "JEEP-COMPASS",
+                "price": "37.000",
+                "km": "1.600",
+                "year": "2015"
             },
             {
                 "image": "JEEP-COMPASS-10953361-10.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10953361-10",
+                "name": "JEEP-COMPASS",
+                "price": "37.000",
+                "km": "1.600",
+                "year": "2015"
             },
             {
                 "image": "JEEP-COMPASS-10957760-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10957760-1",
+                "name": "JEEP-COMPASS",
+                "price": "90.000",
+                "km": "1.300",
+                "year": "2017"
             },
             {
                 "image": "JEEP-RENEGADE-9568136-4.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "9568136-4",
+                "name": "JEEP-RENEGADE",
+                "price": "90.000",
+                "km": "1.300",
+                "year": "2017"
             },
             {
                 "image": "JEEP-RENEGADE-10226209-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10226209-1",
+                "name": "JEEP-RENEGADE",
+                "price": "90.000",
+                "km": "1.300",
+                "year": "2017"
             },
             {
                 "image": "JEEP-RENEGADE-10406425-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10406425-1",
+                "name": "JEEP-RENEGADE",
+                "price": "90.000",
+                "km": "1.300",
+                "year": "2017"
             },
             {
                 "image": "JEEP-RENEGADE-10433210-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10433210-1",
+                "name": "JEEP-RENEGADE",
+                "price": "52.000",
+                "km": "12.000",
+                "year": "2015"
             },
             {
                 "image": "JEEP-RENEGADE-10631401-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10631401-1",
+                "name": "JEEP-RENEGADE",
+                "price": "37.000",
+                "km": "15.000",
+                "year": "2014"
             }
         ],
 
         "mercedes-benz": [
             {
                 "image": "MERCEDESBENZ-A-200-9101389-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "9101389-1",
+                "name": "MERCEDESBENZ-A-200",
+                "price": "180.000",
+                "km": "1.320",
+                "year": "2016"
             },
             {
                 "image": "MERCEDESBENZ-A-200-10908664-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10908664-1",
+                "name": "MERCEDESBENZ-A-200",
+                "price": "180.000",
+                "km": "1.320",
+                "year": "2016"
             },
             {
                 "image": "MERCEDESBENZ-B-200-9561344-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "9561344-1",
+                "name": "MERCEDESBENZ-A-200",
+                "price": "180.000",
+                "km": "1.320",
+                "year": "2016"
             },
             {
                 "image": "MERCEDESBENZ-C-180-10198403-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10198403-1",
+                "name": "MERCEDESBENZ-C-180",
+                "price": "175.000",
+                "km": "3.000",
+                "year": "2017"
             },
             {
                 "image": "MERCEDESBENZ-C-180-10884363-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10884363-1",
+                "name": "MERCEDESBENZ-C-180",
+                "price": "175.000",
+                "km": "3.000",
+                "year": "2017"
             },
             {
                 "image": "MERCEDESBENZ-C-180-10919820-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10919820-1",
+                "name": "MERCEDESBENZ-C-180",
+                "price": "175.000",
+                "km": "3.000",
+                "year": "2017"
             },
             {
                 "image": "MERCEDESBENZ-C-180-11007936-8.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11007936-8",
+                "name": "MERCEDESBENZ-C-180",
+                "price": "175.000",
+                "km": "3.000",
+                "year": "2017"
             },
             {
                 "image": "MERCEDESBENZ-C-180-11015472-8.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11015472-8",
+                "name": "MERCEDESBENZ-C-180",
+                "price": "220.000",
+                "km": "1.000",
+                "year": "2019"
             },
             {
                 "image": "MERCEDESBENZ-GLA-200-10682616-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10682616-1",
+                "name": "MERCEDESBENZ-GLA-200",
+                "price": "145.000",
+                "km": "3.000",
+                "year": "2016"
             },
             {
                 "image": "MERCEDESBENZ-GLA-200-10691787-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10691787-1",
+                "name": "MERCEDESBENZ-GLA-200",
+                "price": "145.000",
+                "km": "3.000",
+                "year": "2016"
             },
             {
                 "image": "MERCEDESBENZ-GLA-200-10775208-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10775208-1",
+                "name": "MERCEDESBENZ-GLA-200",
+                "price": "145.000",
+                "km": "3.000",
+                "year": "2016"
             },
             {
                 "image": "MERCEDESBENZ-GLA-200-10776352-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10776352-1",
+                "name": "MERCEDESBENZ-GLA-200",
+                "price": "250.000",
+                "km": "0",
+                "year": "2020"
             },
             {
                 "image": "MERCEDESBENZ-GLA-200-10948448-1.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "10948448-1",
+                "name": "MERCEDESBENZ-GLA-200",
+                "price": "100.000",
+                "km": "2.000",
+                "year": "2015"
             },
             {
                 "image": "MERCEDESBENZ-GLA-200-11007945-8.jpg",
-                "id": "",
-                "name": "",
-                "price": "",
-                "km": "",
-                "year": ""
+                "id": "11007945-8",
+                "name": "MERCEDESBENZ-GLA-200",
+                "price": "120.000",
+                "km": "3.200",
+                "year": "2016"
             }
         ],
 
         "nissan": [
             {
                 "image": "NISSAN-FRONTIER-10992316-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10992316-1",
+                "name": "NISSAN-FRONTIER",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-KICKS-10020155-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10020155-1",
+                "name": "NISSAN-KICKS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-KICKS-10918467-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10918467-1",
+                "name": "NISSAN-KICKS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-KICKS-10974701-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10974701-1",
+                "name": "NISSAN-KICKS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-KICKS-10991148-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10991148-1",
+                "name": "NISSAN-KICKS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-LIVINA-10532903-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10532903-1",
+                "name": "NISSAN-LIVINA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-MARCH-9034480-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "9034480-1",
+                "name": "NISSAN-MARCH",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-MARCH-9677818-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "9677818-1",
+                "name": "NISSAN-MARCH",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-MARCH-10047842-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10047842-1",
+                "name": "NISSAN-MARCH",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-MARCH-11033571-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "11033571-1",
+                "name": "NISSAN-MARCH",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-SENTRA-8015409-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "8015409-1",
+                "name": "NISSAN-SENTRA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-SENTRA-10476654-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10476654-1",
+                "name": "NISSAN-SENTRA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-SENTRA-10587186-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10587186-1",
+                "name": "NISSAN-SENTRA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-SENTRA-10743229-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10743229-1",
+                "name": "NISSAN-SENTRA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "NISSAN-SENTRA-10921870-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10921870-1",
+                "name": "NISSAN-SENTRA",
                 "price": "",
                 "km": "",
                 "year": ""
@@ -1046,120 +1046,120 @@
         "toyota": [
             {
                 "image": "TOYOTA-COROLLA-10020406-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10020406-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-COROLLA-10069991-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10069991-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-COROLLA-10542706-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10542706-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-COROLLA-10572857-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10572857-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-COROLLA-10668433-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10668433-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-COROLLA-10718520-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10718520-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-COROLLA-10847800-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10847800-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-COROLLA-10901956-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10901956-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-COROLLA-10933665-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10933665-1",
+                "name": "TOYOTA-COROLLA",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-ETIOS-9712569-9.jpg",
-                "id": "",
-                "name": "",
+                "id": "9712569-9",
+                "name": "TOYOTA-ETIOS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-ETIOS-9992669-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "9992669-1",
+                "name": "TOYOTA-ETIOS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "toyota-etios-11006283-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "11006283-1",
+                "name": "TOYOTA-ETIOS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-ETIOS-11028533-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "11028533-1",
+                "name": "TOYOTA-ETIOS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-HILUX-10679414-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10679414-1",
+                "name": "TOYOTA-HILUX",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "TOYOTA-HILUX-10858436-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10858436-1",
+                "name": "TOYOTA-HILUX",
                 "price": "",
                 "km": "",
                 "year": ""
@@ -1169,112 +1169,112 @@
         "volkswagen": [
             {
                 "image": "VOLKSWAGEN-FOX-10981675-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10981675-1",
+                "name": "VOLKSWAGEN-FOX",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-FOX-10981718-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10981718-1",
+                "name": "VOLKSWAGEN-FOX",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-GOL-10989640-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10989640-1",
+                "name": "VOLKSWAGEN-GOL",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-POLO-10979418-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10979418-1",
+                "name": "VOLKSWAGEN-POLO",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-POLO-10981660-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10981660-1",
+                "name": "VOLKSWAGEN-POLO",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-SAVEIRO-10963810-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10963810-1",
+                "name": "VOLKSWAGEN-SAVEIRO",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-SAVEIRO-10979169-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10979169-1",
+                "name": "VOLKSWAGEN-SAVEIRO",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-TCROSS-10979573-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10979573-1",
+                "name": "VOLKSWAGEN-TCROSS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-TCROSS-10979697-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10979697-1",
+                "name": "VOLKSWAGEN-TCROSS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-TCROSS-10981842-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10981842-1",
+                "name": "VOLKSWAGEN-TCROSS",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-TIGUAN-ALLSPACE-10978994-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10978994-1",
+                "name": "VOLKSWAGEN-TIGUAN-ALLSPACE",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-TIGUAN-ALLSPACE-10979866-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10979866-1",
+                "name": "VOLKSWAGEN-TIGUAN-ALLSPACE",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-UP-10979924-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "10979924-1",
+                "name": "VOLKSWAGEN-UP",
                 "price": "",
                 "km": "",
                 "year": ""
             },
             {
                 "image": "VOLKSWAGEN-UP-11033561-1.jpg",
-                "id": "",
-                "name": "",
+                "id": "11033561-1",
+                "name": "VOLKSWAGEN-UP",
                 "price": "",
                 "km": "",
                 "year": ""
